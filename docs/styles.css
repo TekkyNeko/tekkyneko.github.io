@@ -1,0 +1,21 @@
+body
+{
+  text-align: center;
+  background-color: white;
+}
+
+#swapText
+{
+font-family: Arial;
+}
+
+.button
+{
+  background-color: rgb(67, 77, 221);
+  border: none;
+  border-radius: 20px;
+  color: white;
+  padding: 25px 15px;
+  font-size: 20px;
+  font-style: bold;
+}
