@@ -18,4 +18,16 @@ font-family: Arial;
   padding: 25px 15px;
   font-size: 20px;
   font-style: bold;
+  display: inline-block;
+  cursor: pointer;
+}
+.button:hover
+{
+  background-color: rgb(90, 99, 224);
+  transition: 0.2s;
+}
+.button:active
+{
+  background-color: rgb(67, 77, 221);
+  transition: 0.1s;
 }
