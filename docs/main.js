@@ -10,3 +10,8 @@ function buttonToggle()
     text.innerHTML = "Hello World!";
   }
 }
+
+function GithubRedirect()
+{
+  window.location.replace("https://github.com/TekkyNeko");
+}
