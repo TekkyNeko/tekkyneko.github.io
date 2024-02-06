@@ -11,6 +11,13 @@ article {
   text-align: center;
 }
 
+.myimage {
+  max-width: 30%;
+  grid-column:2;
+  grid-row: 3;
+  padding-top: 8em;
+}
+
 .projects {
   margin-top: 15px
 }
